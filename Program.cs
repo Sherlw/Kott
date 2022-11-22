@@ -11,6 +11,9 @@ namespace kott
         static void Main(string[] args)
         {
             Console.WriteLine("Привет");
+            int aboba = 3;
+            int aboba2 = 27;
+            int a = aboba * aboba2;
         }
     }
 }
